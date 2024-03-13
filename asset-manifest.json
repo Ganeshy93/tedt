@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ganeshy93.github.io/test/static/css/main.a9570757.css",
+    "main.js": "/Ganeshy93.github.io/test/static/js/main.2d05af7a.js",
+    "static/js/453.422fe807.chunk.js": "/Ganeshy93.github.io/test/static/js/453.422fe807.chunk.js",
+    "index.html": "/Ganeshy93.github.io/test/index.html",
+    "main.a9570757.css.map": "/Ganeshy93.github.io/test/static/css/main.a9570757.css.map",
+    "main.2d05af7a.js.map": "/Ganeshy93.github.io/test/static/js/main.2d05af7a.js.map",
+    "453.422fe807.chunk.js.map": "/Ganeshy93.github.io/test/static/js/453.422fe807.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9570757.css",
+    "static/js/main.2d05af7a.js"
+  ]
+}
